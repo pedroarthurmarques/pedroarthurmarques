@@ -5,8 +5,6 @@
   Node.js · .NET · Android (Kotlin) · iOS (Swift)
 </p>
 
-<p align="center">📍 Taquara, RS · Aberto a vagas remotas, e híbridas ou presenciais na Grande Porto Alegre</p>
-
 <p align="center">
   <a href="https://linktr.ee/pedroarthurmarques"><img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"></a>
   <a href="https://www.linkedin.com/in/pedro-dev-marques"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
