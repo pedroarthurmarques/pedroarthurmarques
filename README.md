@@ -1,68 +1,46 @@
-<h1 align="center">Olá, eu sou o Pedro 👋</h1>
+<p><img src="assets/hero.svg" width="100%" alt="Pedro Arthur Marques, desenvolvedor back-end e mobile. Constrói a API e o app que conversa com ela, do banco de dados à publicação na loja. Um celular recebe notificações: SnapSeller, PDV em uso por centenas de clientes; Sulina, rota concluída em campo 100% offline; esteira de release, 8 apps publicados de um só repositório."></p>
 
-<p align="center">
-  <b>Desenvolvedor Back-end e Mobile</b><br>
-  Node.js · .NET · Android (Kotlin) · iOS (Swift)
+<p>
+<a href="https://www.linkedin.com/in/pedro-dev-marques"><img src="assets/botao-linkedin.svg" alt="Falar no LinkedIn"></a>
+<a href="mailto:pedroamarques85@gmail.com"><img src="assets/botao-email.svg" alt="Mandar e-mail"></a>
+<a href="https://linktr.ee/pedroarthurmarques"><img src="assets/botao-links.svg" alt="Todos os links"></a>
 </p>
 
-<p align="center">
-  <a href="https://linktr.ee/pedroarthurmarques"><img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"></a>
-  <a href="https://www.linkedin.com/in/pedro-dev-marques"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:pedroamarques85@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
-  <a href="https://www.instagram.com/pedru_marques"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-</p>
+Há 6 anos construo produtos de ponta a ponta no [@grupo-w2abrasil](https://github.com/grupo-w2abrasil): as APIs, os apps Android e iOS que as consomem e a esteira que publica tudo nas lojas. Esse código vive em repositórios privados, então este perfil mostra o que ele sustenta.
 
----
+### Um back-end, cinco produtos, três plataformas
 
-### 🙋‍♂️ Sobre mim
+<img src="assets/ecossistema.svg" width="100%" alt="Cinco produtos (PDV móvel SnapSeller, estoque SnapStock, e-commerce SnapStore, BI Mentor Analytics e fidelidade CV Experience) usam a mesma API REST em Node.js com NestJS e Express e .NET com C#, com dados em PostgreSQL, Oracle e MySQL e push pelo Firebase. A API atende apps Android (Kotlin, Java, Jetpack, Room e Retrofit), apps iOS (Swift, SwiftUI, UIKit, GRDB e Alamofire) e aplicações web.">
 
-Há 6 anos construo produtos de ponta a ponta: das APIs RESTful em **Node.js** e **.NET** aos apps nativos **Android** e **iOS** que as consomem. Como projeto os dois lados da integração, o contrato da API e o cliente nascem juntos, sem retrabalho entre back-end e mobile.
+### Do pull request à loja
 
-Desde 2020 no [@grupo-w2abrasil](https://github.com/grupo-w2abrasil), sou responsável pelo back-end e pela camada de dados do ecossistema **Snapcontrol** (PDV móvel, estoque, e-commerce, logística, BI e fidelidade) e pelo ciclo completo de mais de 10 apps publicados na App Store e no Google Play. Por isso, a maior parte do meu código está em repositórios privados. O gráfico de contribuições abaixo mostra essa atividade.
+<img src="assets/esteira.svg" width="100%" alt="Esteira de release em GitHub Actions: pull request com testes, lint e build; tag de versão que gera o AAB e o IPA assinados; teste interno no Google Play, TestFlight e Firebase App Distribution; aprovação manual que promove o mesmo binário; produção com rollout gradual. Num produto white-label, 8 apps são publicados em paralelo e a falha de um não trava os outros.">
 
-### 🛠️ Stack
+### 12 apps em produção
 
-| | |
-|:--|:--|
-| **Back-end** | <img src="https://skillicons.dev/icons?i=nodejs,ts,js,cs,dotnet" alt="Node.js, TypeScript, JavaScript, C#, .NET" /> |
-| **Mobile** | <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,swift" alt="Kotlin, Java, Android Studio, Swift" /> |
-| **Dados e Cloud** | <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,gcp,firebase" alt="PostgreSQL, MySQL, SQLite, GCP, Firebase" /> |
-| **CI/CD** | <img src="https://skillicons.dev/icons?i=git,github,githubactions" alt="Git, GitHub, GitHub Actions" /> |
+<img src="assets/apps.svg" width="100%" alt="Apps em produção. Vendas: SnapSeller e Lista da Vez. Estoque: SnapStock. E-commerce: SnapStore. BI: Mentor Analytics. Logística: Sulina. Fidelidade: Éconis, CV Experience, Clube Bottero e Zini. Outros: Di Valentini e SnapTools.">
 
-Também trabalho com Oracle, SwiftUI, UIKit, Jetpack, Room, GRDB, Retrofit e Alamofire, sempre com MVVM e Clean Architecture.
+<details>
+<summary>Abrir os apps na loja</summary>
 
-### 🧩 Destaques
+- [SnapSeller](https://play.google.com/store/apps/details?id=COLE_O_ID_AQUI): catálogo de vendas e PDV móvel
+- [Lista da Vez](https://play.google.com/store/apps/details?id=COLE_O_ID_AQUI): rodízio inteligente de vendedores
+- [SnapStock](https://play.google.com/store/apps/details?id=COLE_O_ID_AQUI): gestão de estoque, inventário e conferências
+- [SnapStore](https://play.google.com/store/apps/details?id=COLE_O_ID_AQUI): e-commerce, sua loja na palma da mão
+- [Mentor Analytics](https://play.google.com/store/apps/details?id=COLE_O_ID_AQUI): BI de indicadores e métricas
+- [Sulina](https://play.google.com/store/apps/details?id=COLE_O_ID_AQUI): logística de rotas entre transportadoras e motoristas, 100% offline
+- [Éconis](https://play.google.com/store/apps/details?id=COLE_O_ID_AQUI), [CV Experience](https://play.google.com/store/apps/details?id=COLE_O_ID_AQUI), [Clube Bottero](https://play.google.com/store/apps/details?id=COLE_O_ID_AQUI) e [Zini](https://play.google.com/store/apps/details?id=COLE_O_ID_AQUI): programas de fidelidade
+- [Di Valentini](https://play.google.com/store/apps/details?id=COLE_O_ID_AQUI): app sob medida para clientes, com acompanhamento de compras e vantagens
+- [SnapTools](https://play.google.com/store/apps/details?id=COLE_O_ID_AQUI): auxiliares do ecossistema Snapcontrol
 
-- **SnapSeller, PDV móvel, do banco à interface:** API de vendas e sincronização, mais os apps Android e iOS com operação offline (Room e GRDB). Hoje é usado por centenas de clientes.
-- **Esteira de release com GitHub Actions:** cada pull request roda testes, lint e build. Uma tag gera o AAB assinado e publica em teste interno, e a ida para produção exige aprovação manual, com rollout gradual do mesmo binário já validado. No iOS, o fluxo vai até o TestFlight e a App Store com liberação em fases.
-- **White-label em escala:** uma única esteira publica 8 apps distintos no Google Play a partir de um só repositório, com jobs em paralelo. A falha de um app não bloqueia os demais.
-- **Base compartilhada:** padronizei back-end e apps em MVVM e Clean Architecture, com contratos de API reutilizados entre os 5 produtos do grupo.
+</details>
 
-### 📲 Apps em produção
+### Atividade
 
-<!-- Troque cada COLE_O_ID_AQUI pelo link do app na loja (é o mesmo link que está no seu Linktree) -->
+<img src="assets/atividade.svg" width="100%" alt="Gráfico de contribuições por mês nos últimos 12 meses, com o total do ano, a sequência atual, a maior sequência, o dia e o mês mais ativos.">
 
-**Ecossistema Snapcontrol**
+<sub>O gráfico é redesenhado todo dia por uma GitHub Action deste repositório.</sub>
 
-| App | O que é |
-|:--|:--|
-| [SnapSeller](https://play.google.com/store/apps/details?id=COLE_O_ID_AQUI) | Catálogo de vendas e PDV móvel |
-| [SnapStock](https://play.google.com/store/apps/details?id=COLE_O_ID_AQUI) | Gestão de estoque, inventário e conferências |
-| [SnapStore](https://play.google.com/store/apps/details?id=COLE_O_ID_AQUI) | E-commerce: sua loja na palma da mão |
-| [Lista da Vez](https://play.google.com/store/apps/details?id=COLE_O_ID_AQUI) | Rodízio inteligente de vendedores |
-| [SnapTools](https://play.google.com/store/apps/details?id=COLE_O_ID_AQUI) | Auxiliares do ecossistema Snapcontrol |
-| [Mentor Analytics](https://play.google.com/store/apps/details?id=COLE_O_ID_AQUI) | BI de indicadores e métricas |
-| [Sulina](https://play.google.com/store/apps/details?id=COLE_O_ID_AQUI) | Logística e transporte 100% offline |
-| [Éconis](https://play.google.com/store/apps/details?id=COLE_O_ID_AQUI) · [CV Experience](https://play.google.com/store/apps/details?id=COLE_O_ID_AQUI) · [Clube Bottero](https://play.google.com/store/apps/details?id=COLE_O_ID_AQUI) · [Zini](https://play.google.com/store/apps/details?id=COLE_O_ID_AQUI) | Programas de fidelidade |
-| [Di Valentini](https://play.google.com/store/apps/details?id=COLE_O_ID_AQUI) | App sob medida para clientes: acompanhamento de compras e vantagens |
+<br>
 
-### 📈 Atividade
-
-<!-- Inclui contribuições privadas se a opção "Private contributions" estiver ativada no seu perfil -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pedroarthurmarques&locale=pt_BR&hide_border=true" alt="GitHub Streak" />
-</p>
-
-### 🎓 Formação
-
-Bacharelado em Engenharia de Software, Universidade Estácio de Sá (2025)
+<sub>Bacharel em Engenharia de Software pela Estácio (2025). Português nativo, inglês avançado em leitura e escrita técnica.</sub>
