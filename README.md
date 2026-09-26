@@ -5,8 +5,6 @@
   Node.js · .NET · Android (Kotlin) · iOS (Swift)
 </p>
 
-<p align="center">📍 Taquara, RS · Aberto a vagas remotas, e híbridas ou presenciais na Grande Porto Alegre</p>
-
 <p align="center">
   <a href="https://linktr.ee/pedroarthurmarques"><img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"></a>
   <a href="https://www.linkedin.com/in/pedro-dev-marques"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -20,7 +18,7 @@
 
 Há 6 anos construo produtos de ponta a ponta: das APIs RESTful em **Node.js** e **.NET** aos apps nativos **Android** e **iOS** que as consomem. Como projeto os dois lados da integração, o contrato da API e o cliente nascem juntos, sem retrabalho entre back-end e mobile.
 
-Desde 2020 no [@grupo-w2abrasil](https://github.com/grupo-w2abrasil), sou responsável pelo back-end e pela camada de dados do ecossistema **Snapcontrol** (PDV móvel, estoque, e-commerce, BI e fidelidade) e pelo ciclo completo de mais de 10 apps publicados na App Store e no Google Play. Por isso, a maior parte do meu código está em repositórios privados. O gráfico de contribuições abaixo mostra essa atividade.
+Desde 2020 no [@grupo-w2abrasil](https://github.com/grupo-w2abrasil), sou responsável pelo back-end e pela camada de dados do ecossistema **Snapcontrol** (PDV móvel, estoque, e-commerce, logística, BI e fidelidade) e pelo ciclo completo de mais de 10 apps publicados na App Store e no Google Play. Por isso, a maior parte do meu código está em repositórios privados. O gráfico de contribuições abaixo mostra essa atividade.
 
 ### 🛠️ Stack
 
@@ -48,21 +46,15 @@ Também trabalho com Oracle, SwiftUI, UIKit, Jetpack, Room, GRDB, Retrofit e Ala
 
 | App | O que é |
 |:--|:--|
-| [SnapSeller](https://play.google.com/store/apps/details?id=COLE_O_ID_AQUI) | PDV móvel com operação offline |
-| [SnapStock](https://play.google.com/store/apps/details?id=COLE_O_ID_AQUI) | Gestão de estoque e inventário |
-| [SnapStore](https://play.google.com/store/apps/details?id=COLE_O_ID_AQUI) | E-commerce |
-| [Mentor Analytics](https://play.google.com/store/apps/details?id=COLE_O_ID_AQUI) | BI de indicadores de vendas |
-| [CV Experience](https://play.google.com/store/apps/details?id=COLE_O_ID_AQUI) | Programa de fidelidade |
-
-**Outros apps (autoria e colaboração)**
-
-[Éconis](https://play.google.com/store/apps/details?id=COLE_O_ID_AQUI) ·
-[Clube Bottero](https://play.google.com/store/apps/details?id=COLE_O_ID_AQUI) ·
-[Lista da Vez](https://play.google.com/store/apps/details?id=COLE_O_ID_AQUI) ·
-[Sulina](https://play.google.com/store/apps/details?id=COLE_O_ID_AQUI) ·
-[SnapTools](https://play.google.com/store/apps/details?id=COLE_O_ID_AQUI) ·
-[Di Valentini](https://play.google.com/store/apps/details?id=COLE_O_ID_AQUI) ·
-[Zini](https://play.google.com/store/apps/details?id=COLE_O_ID_AQUI)
+| [SnapSeller](https://play.google.com/store/apps/details?id=COLE_O_ID_AQUI) | Catálogo de vendas e PDV móvel |
+| [SnapStock](https://play.google.com/store/apps/details?id=COLE_O_ID_AQUI) | Gestão de estoque, inventário e conferências |
+| [SnapStore](https://play.google.com/store/apps/details?id=COLE_O_ID_AQUI) | E-commerce: sua loja na palma da mão |
+| [Lista da Vez](https://play.google.com/store/apps/details?id=COLE_O_ID_AQUI) | Rodízio inteligente de vendedores |
+| [SnapTools](https://play.google.com/store/apps/details?id=COLE_O_ID_AQUI) | Auxiliares do ecossistema Snapcontrol |
+| [Mentor Analytics](https://play.google.com/store/apps/details?id=COLE_O_ID_AQUI) | BI de indicadores e métricas |
+| [Sulina](https://play.google.com/store/apps/details?id=COLE_O_ID_AQUI) | Logística e transporte 100% offline |
+| [Éconis](https://play.google.com/store/apps/details?id=COLE_O_ID_AQUI) · [CV Experience](https://play.google.com/store/apps/details?id=COLE_O_ID_AQUI) · [Clube Bottero](https://play.google.com/store/apps/details?id=COLE_O_ID_AQUI) · [Zini](https://play.google.com/store/apps/details?id=COLE_O_ID_AQUI) | Programas de fidelidade |
+| [Di Valentini](https://play.google.com/store/apps/details?id=COLE_O_ID_AQUI) | App sob medida para clientes: acompanhamento de compras e vantagens |
 
 ### 📈 Atividade
 
